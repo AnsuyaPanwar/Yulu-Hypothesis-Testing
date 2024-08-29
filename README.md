@@ -40,7 +40,7 @@ The company wants to know:
   
 ## 2. PREPARE
 ## Data Storage:
-This public dataset is completely available on open source platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below:https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089
+This public dataset is completely available on open source platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below:<a href = "https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/428/original/bike_sharing.csv?1642089089" > Click here </a>
 ## Tools Used:
 1. Google_Collab
 
